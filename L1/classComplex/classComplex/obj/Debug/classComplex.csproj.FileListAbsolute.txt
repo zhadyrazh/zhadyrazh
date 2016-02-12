@@ -1,0 +1,6 @@
+C:\PT_labs\L1\classComplex\classComplex\bin\Debug\classComplex.exe.config
+C:\PT_labs\L1\classComplex\classComplex\bin\Debug\classComplex.exe
+C:\PT_labs\L1\classComplex\classComplex\bin\Debug\classComplex.pdb
+C:\PT_labs\L1\classComplex\classComplex\obj\Debug\classComplex.csprojResolveAssemblyReference.cache
+C:\PT_labs\L1\classComplex\classComplex\obj\Debug\classComplex.exe
+C:\PT_labs\L1\classComplex\classComplex\obj\Debug\classComplex.pdb

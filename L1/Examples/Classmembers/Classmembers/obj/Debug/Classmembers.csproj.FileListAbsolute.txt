@@ -1,0 +1,6 @@
+C:\PT_labs\L1\Classmembers\Classmembers\bin\Debug\Classmembers.exe.config
+C:\PT_labs\L1\Classmembers\Classmembers\bin\Debug\Classmembers.exe
+C:\PT_labs\L1\Classmembers\Classmembers\bin\Debug\Classmembers.pdb
+C:\PT_labs\L1\Classmembers\Classmembers\obj\Debug\Classmembers.csprojResolveAssemblyReference.cache
+C:\PT_labs\L1\Classmembers\Classmembers\obj\Debug\Classmembers.exe
+C:\PT_labs\L1\Classmembers\Classmembers\obj\Debug\Classmembers.pdb

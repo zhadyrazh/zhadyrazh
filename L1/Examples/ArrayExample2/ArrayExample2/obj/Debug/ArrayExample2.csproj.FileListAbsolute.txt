@@ -1,0 +1,5 @@
+C:\PT_labs\L1\ArrayExample2\ArrayExample2\bin\Debug\ArrayExample2.exe.config
+C:\PT_labs\L1\ArrayExample2\ArrayExample2\bin\Debug\ArrayExample2.exe
+C:\PT_labs\L1\ArrayExample2\ArrayExample2\bin\Debug\ArrayExample2.pdb
+C:\PT_labs\L1\ArrayExample2\ArrayExample2\obj\Debug\ArrayExample2.exe
+C:\PT_labs\L1\ArrayExample2\ArrayExample2\obj\Debug\ArrayExample2.pdb

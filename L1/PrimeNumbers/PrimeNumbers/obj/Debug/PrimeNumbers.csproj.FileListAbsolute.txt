@@ -1,0 +1,1 @@
+C:\PT_labs\L1\PrimeNumbers\PrimeNumbers\bin\Debug\PrimeNumbers.exe.config

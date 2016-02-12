@@ -1,0 +1,6 @@
+C:\PT_labs\L1\ArrayExample3\ArrayExample3\bin\Debug\ArrayExample3.exe.config
+C:\PT_labs\L1\ArrayExample3\ArrayExample3\bin\Debug\ArrayExample3.exe
+C:\PT_labs\L1\ArrayExample3\ArrayExample3\bin\Debug\ArrayExample3.pdb
+C:\PT_labs\L1\ArrayExample3\ArrayExample3\obj\Debug\ArrayExample3.csprojResolveAssemblyReference.cache
+C:\PT_labs\L1\ArrayExample3\ArrayExample3\obj\Debug\ArrayExample3.exe
+C:\PT_labs\L1\ArrayExample3\ArrayExample3\obj\Debug\ArrayExample3.pdb

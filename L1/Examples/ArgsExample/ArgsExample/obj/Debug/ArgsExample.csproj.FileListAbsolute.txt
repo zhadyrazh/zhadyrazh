@@ -1,0 +1,6 @@
+C:\PT_labs\L1\ArgsExample\ArgsExample\bin\Debug\ArgsExample.exe.config
+C:\PT_labs\L1\ArgsExample\ArgsExample\bin\Debug\ArgsExample.exe
+C:\PT_labs\L1\ArgsExample\ArgsExample\bin\Debug\ArgsExample.pdb
+C:\PT_labs\L1\ArgsExample\ArgsExample\obj\Debug\ArgsExample.csprojResolveAssemblyReference.cache
+C:\PT_labs\L1\ArgsExample\ArgsExample\obj\Debug\ArgsExample.exe
+C:\PT_labs\L1\ArgsExample\ArgsExample\obj\Debug\ArgsExample.pdb

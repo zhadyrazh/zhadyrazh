@@ -1,0 +1,6 @@
+C:\PT_labs\L1\StringExample\StringExample\bin\Debug\StringExample.exe.config
+C:\PT_labs\L1\StringExample\StringExample\bin\Debug\StringExample.exe
+C:\PT_labs\L1\StringExample\StringExample\bin\Debug\StringExample.pdb
+C:\PT_labs\L1\StringExample\StringExample\obj\Debug\StringExample.csprojResolveAssemblyReference.cache
+C:\PT_labs\L1\StringExample\StringExample\obj\Debug\StringExample.exe
+C:\PT_labs\L1\StringExample\StringExample\obj\Debug\StringExample.pdb

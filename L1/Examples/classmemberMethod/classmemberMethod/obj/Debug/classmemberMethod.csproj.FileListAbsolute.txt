@@ -1,0 +1,6 @@
+C:\PT_labs\L1\classmemberMethod\classmemberMethod\bin\Debug\classmemberMethod.exe.config
+C:\PT_labs\L1\classmemberMethod\classmemberMethod\obj\Debug\classmemberMethod.csprojResolveAssemblyReference.cache
+C:\PT_labs\L1\classmemberMethod\classmemberMethod\bin\Debug\classmemberMethod.exe
+C:\PT_labs\L1\classmemberMethod\classmemberMethod\bin\Debug\classmemberMethod.pdb
+C:\PT_labs\L1\classmemberMethod\classmemberMethod\obj\Debug\classmemberMethod.exe
+C:\PT_labs\L1\classmemberMethod\classmemberMethod\obj\Debug\classmemberMethod.pdb

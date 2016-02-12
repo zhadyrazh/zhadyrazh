@@ -1,0 +1,6 @@
+C:\PT_labs\L1\StructExample\StructExample\bin\Debug\StructExample.exe.config
+C:\PT_labs\L1\StructExample\StructExample\bin\Debug\StructExample.exe
+C:\PT_labs\L1\StructExample\StructExample\bin\Debug\StructExample.pdb
+C:\PT_labs\L1\StructExample\StructExample\obj\Debug\StructExample.csprojResolveAssemblyReference.cache
+C:\PT_labs\L1\StructExample\StructExample\obj\Debug\StructExample.exe
+C:\PT_labs\L1\StructExample\StructExample\obj\Debug\StructExample.pdb

@@ -1,0 +1,5 @@
+C:\PT_labs\L1\StringBuilderExample2\StringBuilderExample2\bin\Debug\StringBuilderExample2.exe.config
+C:\PT_labs\L1\StringBuilderExample2\StringBuilderExample2\bin\Debug\StringBuilderExample2.exe
+C:\PT_labs\L1\StringBuilderExample2\StringBuilderExample2\bin\Debug\StringBuilderExample2.pdb
+C:\PT_labs\L1\StringBuilderExample2\StringBuilderExample2\obj\Debug\StringBuilderExample2.exe
+C:\PT_labs\L1\StringBuilderExample2\StringBuilderExample2\obj\Debug\StringBuilderExample2.pdb
