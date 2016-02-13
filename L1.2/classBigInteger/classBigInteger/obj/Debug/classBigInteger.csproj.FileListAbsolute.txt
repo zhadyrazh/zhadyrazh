@@ -1,0 +1,6 @@
+C:\PT\zhadyrazh\L1.2\classBigInteger\classBigInteger\bin\Debug\classBigInteger.exe.config
+C:\PT\zhadyrazh\L1.2\classBigInteger\classBigInteger\bin\Debug\classBigInteger.exe
+C:\PT\zhadyrazh\L1.2\classBigInteger\classBigInteger\bin\Debug\classBigInteger.pdb
+C:\PT\zhadyrazh\L1.2\classBigInteger\classBigInteger\obj\Debug\classBigInteger.csprojResolveAssemblyReference.cache
+C:\PT\zhadyrazh\L1.2\classBigInteger\classBigInteger\obj\Debug\classBigInteger.exe
+C:\PT\zhadyrazh\L1.2\classBigInteger\classBigInteger\obj\Debug\classBigInteger.pdb
