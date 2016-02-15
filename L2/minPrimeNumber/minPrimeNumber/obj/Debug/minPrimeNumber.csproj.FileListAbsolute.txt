@@ -1,0 +1,6 @@
+C:\PT\zhadyrazh\L2\minPrimeNumber\minPrimeNumber\bin\Debug\minPrimeNumber.exe.config
+C:\PT\zhadyrazh\L2\minPrimeNumber\minPrimeNumber\bin\Debug\minPrimeNumber.exe
+C:\PT\zhadyrazh\L2\minPrimeNumber\minPrimeNumber\bin\Debug\minPrimeNumber.pdb
+C:\PT\zhadyrazh\L2\minPrimeNumber\minPrimeNumber\obj\Debug\minPrimeNumber.csprojResolveAssemblyReference.cache
+C:\PT\zhadyrazh\L2\minPrimeNumber\minPrimeNumber\obj\Debug\minPrimeNumber.exe
+C:\PT\zhadyrazh\L2\minPrimeNumber\minPrimeNumber\obj\Debug\minPrimeNumber.pdb

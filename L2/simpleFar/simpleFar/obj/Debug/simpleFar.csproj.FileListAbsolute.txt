@@ -1,0 +1,6 @@
+C:\PT\zhadyrazh\L2\simpleFar\simpleFar\bin\Debug\simpleFar.exe.config
+C:\PT\zhadyrazh\L2\simpleFar\simpleFar\bin\Debug\simpleFar.exe
+C:\PT\zhadyrazh\L2\simpleFar\simpleFar\bin\Debug\simpleFar.pdb
+C:\PT\zhadyrazh\L2\simpleFar\simpleFar\obj\Debug\simpleFar.csprojResolveAssemblyReference.cache
+C:\PT\zhadyrazh\L2\simpleFar\simpleFar\obj\Debug\simpleFar.exe
+C:\PT\zhadyrazh\L2\simpleFar\simpleFar\obj\Debug\simpleFar.pdb

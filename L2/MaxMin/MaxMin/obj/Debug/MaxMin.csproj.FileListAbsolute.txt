@@ -1,0 +1,6 @@
+C:\PT\zhadyrazh\L2\MaxMin\MaxMin\bin\Debug\MaxMin.exe.config
+C:\PT\zhadyrazh\L2\MaxMin\MaxMin\bin\Debug\MaxMin.exe
+C:\PT\zhadyrazh\L2\MaxMin\MaxMin\bin\Debug\MaxMin.pdb
+C:\PT\zhadyrazh\L2\MaxMin\MaxMin\obj\Debug\MaxMin.csprojResolveAssemblyReference.cache
+C:\PT\zhadyrazh\L2\MaxMin\MaxMin\obj\Debug\MaxMin.exe
+C:\PT\zhadyrazh\L2\MaxMin\MaxMin\obj\Debug\MaxMin.pdb

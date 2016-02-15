@@ -1,0 +1,6 @@
+C:\PT\zhadyrazh\L2\stack2\stack2\bin\Debug\stack2.exe.config
+C:\PT\zhadyrazh\L2\stack2\stack2\bin\Debug\stack2.exe
+C:\PT\zhadyrazh\L2\stack2\stack2\bin\Debug\stack2.pdb
+C:\PT\zhadyrazh\L2\stack2\stack2\obj\Debug\stack2.csprojResolveAssemblyReference.cache
+C:\PT\zhadyrazh\L2\stack2\stack2\obj\Debug\stack2.exe
+C:\PT\zhadyrazh\L2\stack2\stack2\obj\Debug\stack2.pdb

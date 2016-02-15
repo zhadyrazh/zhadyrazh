@@ -30,11 +30,16 @@ namespace MaxMin
                     max = Convert.ToInt32(Runner);
             }
 
+            Console.WriteLine("Max is {0}", max);
+            Console.WriteLine("Min is {0}", min);
+
             Write.WriteLine("max is {0}", max);
             Write.WriteLine("min is {0}", min);
 
             Write.Close();
             Read.Close();
+
+            Console.ReadKey();
           
         }
     }
